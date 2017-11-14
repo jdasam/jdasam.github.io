@@ -1,18 +1,12 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
+author_profile: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm currently on my Ph.D. course in [Music and Audio Computing (MAC) Lab](http://mac.kaist.ac.kr), Graduate School of Culture Technology [(GSCT)](http://ct.kaist.ac.kr), Korea Advanced Institue of Science and Technology [(KAIST)](http://www.kaist.ac.kr).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My research interest includes Automatic Music Transcription, Audio-to-Score Alignment, Music Visualization, Performance Analysis, Web Audio API, and Computational Musicology.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I love classical music a lot. This is the reason why my research interest is focused mainly on classical music. I've played the cello in KAIST Orchestra, and taken the lesson for orchestral conducting. I worked as an intern in Great Mountains Music Festival & School in 2012. I've travelled many foreign cities to watch concerts or operas, including Bayreuth, Salzburg, Luzern, Glyndebourne, Berlin, München, Madrid, London, Paris, Beijing, and Tokyo. 
