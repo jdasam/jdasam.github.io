@@ -6,7 +6,7 @@ permalink: /webDemo/
 
 ## PerformScore
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/performScore.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/performScore.jpg)
 {: .full}
 
 [Link](https://jdasam.github.io/PerformScore/),
