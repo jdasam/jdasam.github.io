@@ -6,6 +6,15 @@ permalink: /publications/
 
 ## Peer-reviewed Conference Articles
 
+* VirtuosoNet: A Hierarchical Attention RNN for Generating Expressive Piano Performance from Music Score   
+	+ <u>Dasaem Jeong</u>, Taegyun Kwon, and Juhan Nam
+	+ *Workshop on Machine Learning for Creativity and Design, Neural Information Processing Systems (NeurIPS), 2018 [[pdf]](http://mac.kaist.ac.kr/pubs/JeongKwonNam-neurips2018.pdf)
+
+* A Timbre-based Approach to Estimate Key Velocity from Polyphonic Piano Recordings  
+	+ <u>Dasaem Jeong</u>, Taegyun Kwon, and Juhan Nam
+	+ *Proceedings of the 19th International Society for Music Information Retrieval Conference (ISMIR), 2018 [[pdf]](http://ismir2018.ircam.fr/doc/pdfs/196_Paper.pdf)
+
+
 * Audio-to-Score Alignment Of Piano Music Using RNN-based Automatic Music Transcription 
 	+ Taegyun Kwon, <u>Dasaem Jeong</u> and Juhan Nam
 	+ *Proceedings of the 14th Sound and Music Computing Conference (SMC)*, 2017 [[pdf]](http://mac.kaist.ac.kr/pubs/KwonJeongNam-smc2017.pdf) [[demo]](http://mac.kaist.ac.kr/~ilcobo2/alignWithAMT/)
