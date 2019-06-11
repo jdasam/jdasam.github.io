@@ -7,7 +7,7 @@ header:
 <!-- author_profile: true -->
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/hannoverProfile.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/2019_profile.jpg)
 {: .full}
 
 Ph.D student in MAC Lab, KAIST.
