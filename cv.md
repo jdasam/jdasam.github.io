@@ -24,8 +24,8 @@ permalink: /cv/
 
 ## Project
 
-- 2017 - : Automatic Generation of Expressive Music Performance using Machine Learning
-	+ Samsung Science & Technology Foundation
+- 2017 - 2020: Automatic Generation of Expressive Music Performance using Machine Learning
+	+ Samsung Research Funding Center
 
 - 2015 - 2016: Score-based Web Platform for Classical Music Listening
 	+ Korea Technology and Information Promotion Agency for SMEs
