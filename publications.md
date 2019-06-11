@@ -6,14 +6,21 @@ permalink: /publications/
 
 ## Peer-reviewed Conference Articles
 
+* A Hierarchical RNN-based System for Modeling Expressive Piano Performance 
+	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, and Juhan Nam
+	+ *Proceedings of International Society of Music Information Retrieval Conference (ISMIR)* 2019, (accepted)
+
+* Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance
+	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, and Juhan Nam
+	+ *Proceedings of the 36th International Conference on Machine Learning (ICML)*, 2019 [[pdf]](http://proceedings.mlr.press/v97/jeong19a/jeong19a.pdf)
+
 * VirtuosoNet: A Hierarchical Attention RNN for Generating Expressive Piano Performance from Music Score   
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, and Juhan Nam
-	+ *Workshop on Machine Learning for Creativity and Design, Neural Information Processing Systems (NeurIPS), 2018 [[pdf]](http://mac.kaist.ac.kr/pubs/JeongKwonNam-neurips2018.pdf)
+	+ *Workshop on Machine Learning for Creativity and Design, Neural Information Processing Systems (NeurIPS)*, 2018 [[pdf]](http://mac.kaist.ac.kr/pubs/JeongKwonNam-neurips2018.pdf)
 
 * A Timbre-based Approach to Estimate Key Velocity from Polyphonic Piano Recordings  
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, and Juhan Nam
-	+ *Proceedings of the 19th International Society for Music Information Retrieval Conference (ISMIR), 2018 [[pdf]](http://ismir2018.ircam.fr/doc/pdfs/196_Paper.pdf)
-
+	+ *Proceedings of the 19th International Society for Music Information Retrieval Conference (ISMIR)*, 2018 [[pdf]](http://ismir2018.ircam.fr/doc/pdfs/196_Paper.pdf)
 
 * Audio-to-Score Alignment Of Piano Music Using RNN-based Automatic Music Transcription 
 	+ Taegyun Kwon, <u>Dasaem Jeong</u> and Juhan Nam
@@ -29,6 +36,10 @@ permalink: /publications/
 
 
 ## Conference Articles (peer-reviewed on abstract)
+
+* Score and Performance Features for Rendering Expressive Music Performances 
+	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, and Juhan Nam
+	+ *Proceedings of the Music Encoding Conference (MEC)*, 2019  [[pdf]](http://mac.kaist.ac.kr/pubs/JeongKwonKimNam-mec2019.pdf)
 
 * PerformScore: Toward Performance Visualization With the Score on the Web Browser 
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Chaelin Park and Juhan Nam 
