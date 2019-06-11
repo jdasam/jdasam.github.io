@@ -12,4 +12,4 @@ header:
 
 Ph.D student in MAC Lab, KAIST.
 
-Music Information Retrieval, Performance Analysis, Classical Music.
+Music Information Retrieval, Modeling Expressive Performance (aka AI Pianist), Performance Analysis, Classical Music.
