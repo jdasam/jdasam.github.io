@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Education
 
-- 2015 - current: KAIST, Ph.D. student in Culture Technology, (Advisor: Juhan Nam)
+- 2015 - 2020: KAIST, Ph.D. student in Culture Technology, (Advisor: Juhan Nam)
 
 - 2013 - 2015 : KAIST, M.E. in Culture Technology (Advisor: Younghae Noh)
 
