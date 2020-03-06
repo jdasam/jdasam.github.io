@@ -5,7 +5,8 @@ permalink: /about/
 author_profile: true
 ---
 
-I'm currently on my Ph.D. course in [Music and Audio Computing (MAC) Lab](http://mac.kaist.ac.kr), Graduate School of Culture Technology [(GSCT)](http://ct.kaist.ac.kr), Korea Advanced Institue of Science and Technology [(KAIST)](http://www.kaist.ac.kr).
+
+I'm currently working as a researcher in SK T-Brain. I've finished my Ph.D. under the supervision of Prof. Juhan Nam in [Music and Audio Computing (MAC) Lab](http://mac.kaist.ac.kr), Graduate School of Culture Technology [(GSCT)](http://ct.kaist.ac.kr), Korea Advanced Institue of Science and Technology [(KAIST)](http://www.kaist.ac.kr).
 
 My research interest includes Automatic Music Transcription, Audio-to-Score Alignment, Music Visualization, Performance Analysis, Web Audio API, and Computational Musicology.
 

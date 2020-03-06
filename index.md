@@ -10,6 +10,6 @@ header:
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/2019_profile.jpeg)
 {: .full}
 
-Ph.D student in MAC Lab, KAIST.
+Machine Learning Researcher in SK T-Brain, Seoul, Korea.
 
 Music Information Retrieval, Modeling Expressive Performance (aka AI Pianist), Performance Analysis, Classical Music.

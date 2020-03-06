@@ -4,11 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-## Peer-reviewed Conference Articles
+## Journal Articles
+* Note-Intensity Estimation of Piano Recordings Using Coarsely Aligned MIDI Score
+	+ <u>Dasaem Jeong</u>, Taegyun Kwon, and Juhan Nam
+	+ *Journal of Audio Engineering Society* Volume 68 Issue 1/2, 2020, [[pdf]](http://www.aes.org/e-lib/browse.cfm?elib=20716)
 
-* A Hierarchical RNN-based System for Modeling Expressive Piano Performance 
-	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, and Juhan Nam
-	+ *Proceedings of International Society of Music Information Retrieval Conference (ISMIR)* 2019, (accepted)
+## Peer-reviewed Conference Articles
+* A Hierarchical RNN-based System for Modeling Expressive Piano Performances 
+	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, Kyogu Lee, and Juhan Nam
+	+ *Proceedings of International Society of Music Information Retrieval Conference (ISMIR)* 2019, [[pdf]](https://archives.ismir.net/ismir2019/paper/000112.pdf)
 
 * Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, and Juhan Nam
