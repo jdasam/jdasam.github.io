@@ -10,6 +10,10 @@ permalink: /publications/
 	+ *Journal of Audio Engineering Society* Volume 68 Issue 1/2, 2020, [[pdf]](http://www.aes.org/e-lib/browse.cfm?elib=20716)
 
 ## Peer-reviewed Conference Articles
+* Polyphonic Piano Transcription Using Autoregressive Multi-state Note Model
+	+ Taegyun Kwon, <u>Dasaem Jeong</u>,  and Juhan Nam
+	+ *Proceedings of International Society of Music Information Retrieval Conference (ISMIR)* 2020, [[pdf]](https://program.ismir2020.net/poster_3-17.html)
+
 * A Hierarchical RNN-based System for Modeling Expressive Piano Performances 
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, Kyogu Lee, and Juhan Nam
 	+ *Proceedings of International Society of Music Information Retrieval Conference (ISMIR)* 2019, [[pdf]](https://archives.ismir.net/ismir2019/paper/000112.pdf)
@@ -39,7 +43,11 @@ permalink: /publications/
 	+ *Proceedings of the 2nd International Conference on Technologies for Music Notation and Representation (TENOR)*, 2016 [[pdf]](http://mac.kaist.ac.kr/pubs/JeongNam-tenor2016.pdf) [[demo]](http://jdasam.github.io/visualization/main.html)
 
 
-## Conference Articles (peer-reviewed on abstract)
+## Conference and Workshop Articles (peer-reviewed on abstract)
+
+* Real-time Automatic Piano Music Transcription System
+	+ <u>Dasaem Jeong</u>
+	+ *Late Breaking Demo in the 21th International Society for Musical Information Retrieval Conference (ISMIR)*, 2020 [[pdf]](https://program.ismir2020.net/lbd_444.html) [[code]](https://github.com/jdasam/online_amt)
 
 * Score and Performance Features for Rendering Expressive Music Performances 
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, and Juhan Nam
