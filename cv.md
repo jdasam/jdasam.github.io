@@ -2,7 +2,12 @@
 layout: splash
 title: CV
 permalink: /cv/
+
 ---
+## Work History 
+- 2020 - current: Machine Learning Researcher @ SK Telecom T3K T-Brain X
+
+
 ## Education
 
 - 2015 - 2020: KAIST, Ph.D. student in Culture Technology, (Advisor: Juhan Nam)
