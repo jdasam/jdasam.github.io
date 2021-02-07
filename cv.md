@@ -5,7 +5,7 @@ permalink: /cv/
 
 ---
 ## Work History 
-- 2020 - current: Machine Learning Researcher @ SK Telecom T3K T-Brain X
+- 2020 - current: Machine Learning Research Scientist @ SK Telecom T3K T-Brain X
 
 
 ## Education
