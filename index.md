@@ -12,4 +12,4 @@ header:
 
 Machine Learning Researcher in SK T-Brain, Seoul, Korea.
 
-Music Information Retrieval, Modeling Expressive Performance (aka AI Pianist), Performance Analysis, Classical Music.
+Research Interests: Music Information Retrieval, Modeling Expressive Performance (aka AI Pianist), Performance Analysis, Classical Music.
