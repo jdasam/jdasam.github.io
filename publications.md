@@ -39,7 +39,7 @@ permalink: /publications/
 	+ *Proceedings of the 2nd International Conference on Technologies for Music Notation and Representation (TENOR)*, 2016 [[pdf]](http://mac.kaist.ac.kr/pubs/JeongNam-tenor2016.pdf) [[demo]](http://jdasam.github.io/visualization/main.html)
 
 
-## Conference and Workshop Articles (peer-reviewed on abstract)
+## Workshop and Musicology Articles
 
 * TräumerAI: Dreaming Music With StyleGAN  
 	+ <u>Dasaem Jeong</u>, Seungheon Doh, and Taegyun Kwon
