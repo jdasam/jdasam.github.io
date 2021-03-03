@@ -11,6 +11,8 @@ header:
 *Me giving speech as a student representative in the Commemoration of the 49th Anniversary of KAIST*
 
 
-Machine Learning Researcher in SK T-Brain, Seoul, Korea.
+A machine learning researcher @ SK T-Brain, Seoul, Korea.
+Graduated PhD in culture technology / music information retrieval  @ KAIST, 2020
+A father of twins.
 
-Research Interests: Music Information Retrieval, Modeling Expressive Performance (aka AI Pianist), Performance Analysis, Classical Music.
+Research interests: modeling expressive performance (aka AI Pianist), music visualizaiton, performance analysis, classical Music.
