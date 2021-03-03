@@ -6,7 +6,7 @@ header:
 <!-- author_profile: true -->
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/kaist_speech.jpeg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/kaist_speech.jpg)
 {: .full}
 *Me giving speech as a student representative in the Commemoration of the 49th Anniversary of KAIST*
 
