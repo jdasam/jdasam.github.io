@@ -5,16 +5,28 @@ header:
   overlay_filter: 0.2
 <!-- author_profile: true -->
 ---
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kaist_speech.jpg" style="width:100%">
+  <figcaption><italic>Me giving speech as a student representative in the Commemoration of the 49th Anniversary of KAIST</italic></figcaption>
+</figure>
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/kaist_speech.jpg)
+<!-- ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/kaist_speech.jpg)
 {: .full}
-*Me giving speech as a student representative in the Commemoration of the 49th Anniversary of KAIST*
+<font size="2"><center>Me giving speech as a student representative in the Commemoration of the 49th Anniversary of KAIST </center> </font>
+
+<br> -->
 
 
-A machine learning researcher @ SK T-Brain, Seoul, Korea.
 
-Graduated PhD in culture technology / music information retrieval  @ KAIST, 2020
+**Machine learning researcher @ Vision AI Labs/SK Telecom**
 
-A father of twins.
+- Graduated PhD in culture technology / music information retrieval  @ KAIST, 2020
 
-Research interests: modeling expressive performance (aka AI Pianist), music visualizaiton, performance analysis, classical Music.
+#### *Father of twins.*
+
+<!-- ### Research interests
+- modeling expressive piano performance (aka AI Pianist)
+- music visualizaiton 
+- deep learning for creativity
+- performance analysis 
+- classical music -->
