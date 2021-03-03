@@ -10,6 +10,10 @@ permalink: /publications/
 	+ *Journal of Audio Engineering Society* Volume 68 Issue 1/2, 2020, [[pdf]](http://www.aes.org/e-lib/browse.cfm?elib=20716)
 
 ## Peer-reviewed Conference Articles
+* Polyphonic Piano Transcription Using Autoregressive Multi-state Note Model
+	+ Taegyun Kwon, <u>Dasaem Jeong</u>,  and Juhan Nam
+	+ *Proceedings of International Society of Music Information Retrieval Conference (ISMIR)* 2020, [[pdf]](https://program.ismir2020.net/poster_3-17.html) [[demo]](https://taegyunkwon.github.io/ar_multi_transcription/)
+
 * A Hierarchical RNN-based System for Modeling Expressive Piano Performances 
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, Kyogu Lee, and Juhan Nam
 	+ *Proceedings of International Society of Music Information Retrieval Conference (ISMIR)* 2019, [[pdf]](https://archives.ismir.net/ismir2019/paper/000112.pdf)
@@ -17,10 +21,6 @@ permalink: /publications/
 * Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, and Juhan Nam
 	+ *Proceedings of the 36th International Conference on Machine Learning (ICML)*, 2019 [[pdf]](http://proceedings.mlr.press/v97/jeong19a/jeong19a.pdf)
-
-* VirtuosoNet: A Hierarchical Attention RNN for Generating Expressive Piano Performance from Music Score   
-	+ <u>Dasaem Jeong</u>, Taegyun Kwon, and Juhan Nam
-	+ *Workshop on Machine Learning for Creativity and Design, Neural Information Processing Systems (NeurIPS)*, 2018 [[pdf]](http://mac.kaist.ac.kr/pubs/JeongKwonNam-neurips2018.pdf)
 
 * A Timbre-based Approach to Estimate Key Velocity from Polyphonic Piano Recordings  
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, and Juhan Nam
@@ -39,11 +39,25 @@ permalink: /publications/
 	+ *Proceedings of the 2nd International Conference on Technologies for Music Notation and Representation (TENOR)*, 2016 [[pdf]](http://mac.kaist.ac.kr/pubs/JeongNam-tenor2016.pdf) [[demo]](http://jdasam.github.io/visualization/main.html)
 
 
-## Conference Articles (peer-reviewed on abstract)
+## Workshop and Musicology Articles
+
+* TräumerAI: Dreaming Music With StyleGAN  
+	+ <u>Dasaem Jeong</u>, Seungheon Doh, and Taegyun Kwon
+	+ *Workshop on Machine Learning for Creativity and Design, Neural Information Processing Systems (NeurIPS)*, 2020 [[pdf]](https://arxiv.org/pdf/2102.04680.pdf) [[code]](https://github.com/jdasam/traeumerAI) [[demo]](https://jdasam.github.io/traeumerAI_demo/)
+
+
+* Real-time Automatic Piano Music Transcription System
+	+ <u>Dasaem Jeong</u>
+	+ *Late Breaking Demo in the 21th International Society for Musical Information Retrieval Conference (ISMIR)*, 2020 [[pdf]](https://program.ismir2020.net/lbd_444.html) [[code]](https://github.com/jdasam/online_amt)
 
 * Score and Performance Features for Rendering Expressive Music Performances 
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, and Juhan Nam
 	+ *Proceedings of the Music Encoding Conference (MEC)*, 2019  [[pdf]](http://mac.kaist.ac.kr/pubs/JeongKwonKimNam-mec2019.pdf)
+
+* VirtuosoNet: A Hierarchical Attention RNN for Generating Expressive Piano Performance from Music Score  
+	+ <u>Dasaem Jeong</u>, Taegyun Kwon, and Juhan Nam
+	+ *Workshop on Machine Learning for Creativity and Design, Neural Information Processing Systems (NeurIPS)*, 2018 [[pdf]](http://mac.kaist.ac.kr/pubs/JeongKwonNam-neurips2018.pdf)
+
 
 * PerformScore: Toward Performance Visualization With the Score on the Web Browser 
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Chaelin Park and Juhan Nam 

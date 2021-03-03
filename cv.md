@@ -2,10 +2,15 @@
 layout: splash
 title: CV
 permalink: /cv/
+
 ---
+## Work History 
+- 2020 - current: Machine Learning Research Scientist @ SK Telecom T3K Vision AI Labs (T-Brain, T-Brain X)
+
+
 ## Education
 
-- 2015 - current: KAIST, Ph.D. student in Culture Technology, (Advisor: Juhan Nam)
+- 2015 - 2020: KAIST, Ph.D. in Culture Technology, (Advisor: Juhan Nam)
 
 - 2013 - 2015 : KAIST, M.E. in Culture Technology (Advisor: Younghae Noh)
 
@@ -21,6 +26,11 @@ permalink: /cv/
 - 2012 Fall - 2015 Spring: T.A. in KAIST HSS186 "Understanding Music & Music History"
 
 - 2012 Summer : Internship in Great Mountains Music Festival & School (Music School department)
+
+## Award
+
+- 2020 KAIST Global Leadership Award: Creativity 
+
 
 ## Project
 
