@@ -12,7 +12,9 @@ header:
 
 
 A machine learning researcher @ SK T-Brain, Seoul, Korea.
+
 Graduated PhD in culture technology / music information retrieval  @ KAIST, 2020
+
 A father of twins.
 
 Research interests: modeling expressive performance (aka AI Pianist), music visualizaiton, performance analysis, classical Music.
