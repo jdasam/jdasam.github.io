@@ -11,7 +11,7 @@ permalink: /archive/
 * Dec-12-2020 / I presented TräumerAI, a neural music visualizer, on the NeurIPS 2020 Workshop: Machine Learning for Creativity and Design.
 
 
-* Nov-5-2020 / In SK ICT Tech Summit 2020, which is an annual event for introducing technical achivements of SK group in ICT, I gave a talk about my work in SK telecom about real-time piano transcription.
+* Nov-5-2020 / In SK ICT Tech Summit 2020, which is an annual event for introducing technical achivements of SK group in ICT, I gave a talk about my work on real-time piano transcription.
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sk_ict_tech_summit_crop.jpg" style="width:50%">
 
 * Oct-16-2020 / I presented a real-time piano transcription system in Late Breaking / Demo session of ISMIR 2020.
