@@ -3,6 +3,9 @@ layout: splash
 title: News / Archive
 permalink: /archive/
 ---
+
+* Mar-16-2021 / I gave a seminar for AI Convergence Reserch Center of Inha University with a title of "Can AI Understand Music?".  
+
 * Feb-16-2021 / Our AI Pianist, VirtuosoNet, had a duet piano performance with pianist Jong Hwa Park in the ceremony of the 50th anniversary of KAIST. I've improved VirtuosoNet to generate better performance and also implemented the 3D visualization on the background.
 	+ <iframe width="560" height="315" src="https://www.youtube.com/embed/AmGv10NizKo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
