@@ -4,6 +4,9 @@ title: CV
 permalink: /cv/
 
 ---
+My CV in pdf format is [here]({{ site.url }}{{ site.baseurl }}/assets/Dasaem_Jeong_CV.pdf)
+
+
 ## Work History 
 - 2020 - current: Machine Learning Research Scientist @ SK Telecom T3K Vision AI Labs (T-Brain, T-Brain X)
 

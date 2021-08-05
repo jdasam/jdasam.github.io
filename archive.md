@@ -3,16 +3,22 @@ layout: splash
 title: News / Archive
 permalink: /archive/
 ---
+
+* Mar-16-2021 / I gave a seminar for AI Convergence Reserch Center of Inha University with a title of "Can AI Understand Music?".  
+
 * Feb-16-2021 / Our AI Pianist, VirtuosoNet, had a duet piano performance with pianist Jong Hwa Park in the ceremony of the 50th anniversary of KAIST. I've improved VirtuosoNet to generate better performance and also implemented the 3D visualization on the background.
 	+ <iframe width="560" height="315" src="https://www.youtube.com/embed/AmGv10NizKo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Feb-16-2021 / I participated in Artificial Humanity, a concert directed by composer Hana Ryu. My role was to generate piano performances with VirtuosoNet for newly-composed pieces named "AlphaGo" and "바다가", and music-based video with TräumerAI for "바다가". I've labeled new data pair for TräumerAI to generate images of sea and ocean. The concert was given online due to Covid-19.
+* Feb-16-2021 / I participated in Artificial Humanity, a concert directed by composer Hana Ryu. My role was to generate piano performances with VirtuosoNet for newly-composed pieces named "AlphaGo" and "바다가", and music-based video with TräumerAI for "바다가". I've labeled new data pair for TräumerAI to generate images of sea and ocean. The concert was given online due to COVID-19.
 
 * Dec-12-2020 / I presented TräumerAI, a neural music visualizer, on the NeurIPS 2020 Workshop: Machine Learning for Creativity and Design.
 
+* Nov-5-2020 / In SK ICT Tech Summit 2020, which is an annual event for introducing technical achivements of SK group in ICT, I gave a talk about my work on real-time piano transcription.
 
-* Nov-5-2020 / In SK ICT Tech Summit 2020, which is an annual event for introducing technical achivements of SK group in ICT, I gave a talk about my work in SK telecom about real-time piano transcription.
+
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sk_ict_tech_summit_crop.jpg" style="width:50%">
+
+* Oct-29-2020 / I gave a remote lecture on my research on VirtuosoNet to Huawei Tokyo Research Center.
 
 * Oct-16-2020 / I presented a real-time piano transcription system in Late Breaking / Demo session of ISMIR 2020.
 
@@ -26,4 +32,9 @@ permalink: /archive/
 
 * Mar-1-2020 / I joined as a research scientist in T-Brain, AI center, SK telecom, which is one of leading research groups for machine learning in Korea.
 
+
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sk_telecom_crop.jpg" style="width:70%">
+
+* Feb-21-2020 / I graduated with my PhD in Culture Technology from KAIST. Unfortunately, the graduation ceremony was canceled due to COVID-19.
+
+
