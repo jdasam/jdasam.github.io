@@ -18,7 +18,7 @@ My CV in pdf format is [here]({{ site.url }}{{ site.baseurl }}/assets/Dasaem_Jeo
 
 - 2008 - 2013 : KAIST, B.E. in Mechanical Engineering
 
-- 2006 - 2008 : Chonnam Science High School
+- 2006 - 2008 : Jeonnam Science High School
 
 
 ## Experience
