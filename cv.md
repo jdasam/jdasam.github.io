@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 
 ---
-My CV in pdf format is [here]({{ site.url }}{{ site.baseurl }}/assets/Dasaem_Jeong_CV.pdf)
+##### My CV in pdf format is [here]({{ site.url }}{{ site.baseurl }}/assets/Dasaem_Jeong_CV.pdf)
 
 
 ## Work History 
