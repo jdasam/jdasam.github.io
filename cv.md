@@ -8,8 +8,7 @@ My CV in pdf format is [here]({{ site.url }}{{ site.baseurl }}/assets/Dasaem_Jeo
 
 
 ## Work History 
-- 2020 - current: Machine Learning Research Scientist @ SK Telecom T3K Vision AI Labs (T-Brain, T-Brain X)
-
+- 2020 - current: Machine Learning Research Scientist @ T-Brain X, T3K, SK Telecom
 
 ## Education
 
