@@ -8,7 +8,8 @@ permalink: /cv/
 
 
 ## Work History 
-- 2020 - current: Machine Learning Research Scientist @ T-Brain X, T3K, SK Telecom
+- Sep 2021 - current: Assistant Professor @ Art & Technology Department, Sogang University
+- Mar 2020 - Aug 2021: Machine Learning Research Scientist @ T-Brain X, T3K, SK Telecom
 
 ## Education
 
