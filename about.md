@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I'm currently working as a researcher in T-Brain X/SK Telecom. I've finished my Ph.D. under the supervision of Prof. Juhan Nam in [Music and Audio Computing (MAC) Lab](http://mac.kaist.ac.kr), Graduate School of Culture Technology [(GSCT)](http://ct.kaist.ac.kr), Korea Advanced Institue of Science and Technology [(KAIST)](http://www.kaist.ac.kr).
+I'm currently working as an assistant professor at Art & Technology Department in Sogang University. Before joining as a faculty, I worked as a researcher in T-Brain X/SK Telecom. I've finished my Ph.D. under the supervision of Prof. Juhan Nam in [Music and Audio Computing (MAC) Lab](http://mac.kaist.ac.kr), Graduate School of Culture Technology [(GSCT)](http://ct.kaist.ac.kr), Korea Advanced Institue of Science and Technology [(KAIST)](http://www.kaist.ac.kr).
 
 My research interest includes Creative AI, Expressive Performance Modeling, Music Visualization, Automatic Music Transcription, Audio-to-Score Alignment, Performance Analysis, Web Audio API, and Computational Musicology.
 

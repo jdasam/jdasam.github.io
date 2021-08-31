@@ -17,8 +17,7 @@ header:
 <!-- <font size="2"><center>Me giving speech as a student representative in the Commemoration of the 49th Anniversary of KAIST </center> </font> -->
 
 
-**Machine learning researcher @ T-Brain X/SK Telecom**
-- Will be appointed as an assistant professor at Art & Technology Department, Sogang University from Sep 2021
+**Assistant Professor @ Art & Technology Department in Sogang University**
 - Graduated PhD in culture technology / music information retrieval  @ KAIST, 2020
 
 
