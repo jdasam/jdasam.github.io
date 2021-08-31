@@ -17,7 +17,7 @@ header:
 <!-- <font size="2"><center>Me giving speech as a student representative in the Commemoration of the 49th Anniversary of KAIST </center> </font> -->
 
 
-**Assistant Professor @ Art & Technology Department in Sogang University**
+**Assistant Professor @ Department of Art & Technology in Sogang University**
 - Graduated PhD in culture technology / music information retrieval  @ KAIST, 2020
 
 

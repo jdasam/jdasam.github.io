@@ -8,7 +8,7 @@ permalink: /cv/
 
 
 ## Work History 
-- Sep 2021 - current: Assistant Professor @ Art & Technology Department, Sogang University
+- Sep 2021 - current: Assistant Professor @ Department of Art & Technology, Sogang University
 - Mar 2020 - Aug 2021: Machine Learning Research Scientist @ T-Brain X, T3K, SK Telecom
 
 ## Education
