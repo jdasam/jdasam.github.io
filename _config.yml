@@ -87,9 +87,9 @@ analytics:
 author:
   name             : "Dasaem Jeong, PhD"
   avatar           : "assets/images/profile_2020.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ML Researcher @ SK Telecom. Working on Music Information Retrieval. Love classical music, especially opera."
+  bio              : "Assistant Professor @ Sogang University. Working on Music Information Retrieval. Love classical music, especially opera."
   location         : "Seoul, Korea"
-  email            : "dasaem.jeong@sktbrain.com"
+  email            : "dasaemj.sogang.ac.kr"
   uri              :
   bitbucket        :
   codepen          :
