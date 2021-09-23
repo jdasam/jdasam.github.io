@@ -18,7 +18,8 @@ header:
 
 
 **Assistant Professor @ Department of Art & Technology in Sogang University**
-- Graduated PhD in culture technology / music information retrieval  @ KAIST, 2020
+- machine learning researcher @ T-Brain X, SK telecom (2020-2021)
+- PhD in culture technology / music information retrieval  @ KAIST, 2020
 
 
 <!-- ### Research interests

@@ -4,6 +4,13 @@ title: News / Archive
 permalink: /archive/
 ---
 
+* Sep-2-2021 / I gave a seminar for LG AI Research with a title of "Modeling Expressive Performance with Deep Learning"
+
+* Sep-1-2021 / I've beem appointed as an assistant professor at the [Department of Art & Technology at Sogang University](http://creative.sogang.ac.kr/), Seoul. Founded in 2011, Dept of Art & Technology is one of the leading programs for interdisciplinary studies in arts and technologies in South Korea.
+
+* Jul-26-2021 /  Our AI Pianist, VirtuosoNet, performed a piano concerto '3-dimensional Chopin' composed by Hana Ryou accompanied by Gimpo Philharmonic Orchestra. I made and post-processed the performance and also control the performance so that the piano could be synchronized with the orchestra.
+	+ <iframe width="560" height="315" src="https://www.youtube.com/embed/dfn-CwMYxjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Mar-16-2021 / I gave a seminar for AI Convergence Reserch Center of Inha University with a title of "Can AI Understand Music?".  
 
 * Feb-16-2021 / Our AI Pianist, VirtuosoNet, had a duet piano performance with pianist Jong Hwa Park in the ceremony of the 50th anniversary of KAIST. I've improved VirtuosoNet to generate better performance and also implemented the 3D visualization on the background.

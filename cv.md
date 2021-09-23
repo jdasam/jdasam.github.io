@@ -8,14 +8,14 @@ permalink: /cv/
 
 
 ## Work History 
-- Sep 2021 - current: Assistant Professor @ Department of Art & Technology, Sogang University
+- Sep 2021 - present: Assistant Professor @ Department of Art & Technology, Sogang University
 - Mar 2020 - Aug 2021: Machine Learning Research Scientist @ T-Brain X, T3K, SK Telecom
 
 ## Education
 
 - 2015 - 2020: KAIST, Ph.D. in Culture Technology, (Advisor: Juhan Nam)
 
-- 2013 - 2015 : KAIST, M.E. in Culture Technology (Advisor: Younghae Noh)
+- 2013 - 2015 : KAIST, M.S. in Culture Technology (Advisor: Younghae Noh)
 
 - 2008 - 2013 : KAIST, B.E. in Mechanical Engineering
 
