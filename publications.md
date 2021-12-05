@@ -12,11 +12,11 @@ permalink: /publications/
 ## Peer-reviewed Conference Articles
 * Polyphonic Piano Transcription Using Autoregressive Multi-state Note Model
 	+ Taegyun Kwon, <u>Dasaem Jeong</u>,  and Juhan Nam
-	+ *Proceedings of International Society for Music Information Retrieval Conference (ISMIR)* 2020, [[pdf]](https://program.ismir2020.net/poster_3-17.html) [[demo]](https://taegyunkwon.github.io/ar_multi_transcription/)
+	+ *Proceedings of 21st International Society for Music Information Retrieval Conference (ISMIR)* 2020, [[pdf]](https://program.ismir2020.net/poster_3-17.html) [[demo]](https://taegyunkwon.github.io/ar_multi_transcription/)
 
-* A Hierarchical RNN-based System for Modeling Expressive Piano Performances 
+* VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performances 
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, Kyogu Lee, and Juhan Nam
-	+ *Proceedings of International Society for Music Information Retrieval Conference (ISMIR)* 2019, [[pdf]](https://archives.ismir.net/ismir2019/paper/000112.pdf)
+	+ *Proceedings of 20th International Society for Music Information Retrieval Conference (ISMIR)* 2019, [[pdf]](https://archives.ismir.net/ismir2019/paper/000112.pdf)
 
 * Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, and Juhan Nam
