@@ -22,13 +22,11 @@ permalink: /cv/
 - 2006 - 2008 : Jeonnam Science High School
 
 
-## Experience
+## Teaching @ Sogang University
 
-- 2009 Spring - 2016 Spring: Student Lecturer in KAIST HS10.174 (Humanity/Leadership III) "Listening to Classical Music", and "Understanding Operas" (Best Lecture Award in 2013 Fall Semester)
+- 2021 Fall: Data & AI (MAS1004), Special Topics on Creative Technology (ANT6207)
+- 2022 Spring: Natural Language Processing (AAT3020), Deep Learning for Music & Audio (AATG015, )
 
-- 2012 Fall - 2015 Spring: T.A. in KAIST HSS186 "Understanding Music & Music History"
-
-- 2012 Summer : Internship in Great Mountains Music Festival & School (Music School department)
 
 ## Award
 

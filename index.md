@@ -18,13 +18,14 @@ header:
 
 
 **Assistant Professor @ Department of Art & Technology in Sogang University**
+- Also Affilated at Graduate School of AI
 - machine learning researcher @ T-Brain X, SK telecom (2020-2021)
 - PhD in culture technology / music information retrieval  @ KAIST, 2020
 
 
-<!-- ### Research interests
+### Research interests
 - modeling expressive piano performance (aka AI Pianist)
-- music visualizaiton 
 - deep learning for creativity
 - performance analysis 
-- classical music -->
+- music visualizaiton 
+- classical music
