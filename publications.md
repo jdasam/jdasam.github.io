@@ -7,7 +7,7 @@ permalink: /publications/
 ## Journal Articles
 * Note-Intensity Estimation of Piano Recordings Using Coarsely Aligned MIDI Score
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, and Juhan Nam
-	+ *Journal of Audio Engineering Society* Volume 68 Issue 1/2, 2020, [[pdf]](http://www.aes.org/e-lib/browse.cfm?elib=20716)
+	+ *Journal of the Audio Engineering Society* Volume 68 Issue 1/2, 2020, [[pdf]](http://www.aes.org/e-lib/browse.cfm?elib=20716)
 
 ## Peer-reviewed Conference Articles
 * Polyphonic Piano Transcription Using Autoregressive Multi-state Note Model
@@ -48,7 +48,7 @@ permalink: /publications/
 
 * Real-time Automatic Piano Music Transcription System
 	+ <u>Dasaem Jeong</u>
-	+ *Late Breaking Demo in the 21th International Society for Musical Information Retrieval Conference (ISMIR)*, 2020 [[pdf]](https://program.ismir2020.net/lbd_444.html) [[code]](https://github.com/jdasam/online_amt)
+	+ *Late Breaking/Demo in the 21st International Society for Musical Information Retrieval Conference (ISMIR)*, 2020 [[pdf]](https://program.ismir2020.net/lbd_444.html) [[code]](https://github.com/jdasam/online_amt)
 
 * Score and Performance Features for Rendering Expressive Music Performances 
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, and Juhan Nam
