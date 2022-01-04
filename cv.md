@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 
 ---
-##### My CV in pdf format is [here]({{ site.url }}{{ site.baseurl }}/assets/Dasaem_Jeong_CV.pdf)
+## My CV in pdf format is [here]({{ site.url }}{{ site.baseurl }}/assets/Dasaem_Jeong_CV.pdf)
 
 
 ## Work History 
@@ -19,14 +19,11 @@ permalink: /cv/
 
 - 2008 - 2013 : KAIST, B.E. in Mechanical Engineering
 
-- 2006 - 2008 : Jeonnam Science High School
-
 
 ## Teaching @ Sogang University
 
 - 2021 Fall: Data & AI (MAS1004), Special Topics on Creative Technology (ANT6207)
-- 2022 Spring: Natural Language Processing (AAT3020), Deep Learning for Music & Audio (AATG015, )
-
+- 2022 Spring: Natural Language Processing (AAT3020), Deep Learning for Music & Audio (AATG015, AIE6664)
 
 ## Award
 

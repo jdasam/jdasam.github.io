@@ -4,14 +4,13 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
+  - title: "MALer Lab"
+    url: /maler/
   - title: "News/Archive"
     url: /archive/
-  - title: "CV"
-    url: /cv/
   - title: "Publications"
     url: /publications/
-  - title: "Web Demo"
-    url: /webDemo
+
 
   # - title: "Sample Posts"
   #   url: /year-archive/
