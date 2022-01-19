@@ -3,6 +3,10 @@ layout: splash
 title: News / Archive
 permalink: /archive/
 ---
+
+* Jan-7-2022 / It was a great honor for VirtuosoNet to participate a recital of a world-renowned soprano, Sumi Jo at KAIST. VirtuosoNet performed Turkish March arranged by Volodos and accompanied Sumi Jo for "I Could Have Danced All Night". The score of accompaniment part was transcribed by Hyerin Kim, and Dasaem programmed VirtuosoNet and generated the performances with post-processing for tempo adjustment.
+	+ <iframe width="560" height="315" src="https://www.youtube.com/embed/EUcP9t7UISA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Oct-29-2021 / Our AI Pianist VirtuosoNet participated in a media art exhibition by NohLab. The exhibition was held for Reopen of Atatürk Cultural Center, which is one of the icon of Istanbul.
 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nohlab.jpg" style="width:50%" align="center">

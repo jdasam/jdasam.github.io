@@ -21,6 +21,8 @@ Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University)
 - 김혜린 Hyerin Kim <br/>
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/student_profiles/hyerin_kim_resized.jpeg) <br />
 
+# Interns
+- 이다솔 Dasol Lee
 
 # Undergraduate Interns
 - 우시아 Siah Woo
