@@ -4,6 +4,10 @@ title: News / Archive
 permalink: /archive/
 ---
 
+* Feb-25-2022 / I was invited to [Dagstuhl Semniar 22082 "Deep Learning and Knowledge Integration for Music Audio Analysis"](https://www.dagstuhl.de/no_cache/en/program/calendar/semhp/?semnr=22082). It was a absolutely fantastic experience to spend a full week to discuss and playing music with these inspiring and humorous colleagues. 
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dagstuhl.jpg" style="width:50%" align="center">
+
+
 * Jan-7-2022 / It was a great honor for VirtuosoNet to participate a recital of a world-renowned soprano, Sumi Jo at KAIST. VirtuosoNet performed Turkish March arranged by Volodos and accompanied Sumi Jo for "I Could Have Danced All Night". The score of accompaniment part was transcribed by Hyerin Kim, and Dasaem programmed VirtuosoNet and generated the performances with post-processing for tempo adjustment.
 	+ <iframe width="560" height="315" src="https://www.youtube.com/embed/EUcP9t7UISA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
