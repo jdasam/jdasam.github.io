@@ -5,6 +5,7 @@ permalink: /archive/
 ---
 
 * Feb-25-2022 / I was invited to [Dagstuhl Semniar 22082 "Deep Learning and Knowledge Integration for Music Audio Analysis"](https://www.dagstuhl.de/no_cache/en/program/calendar/semhp/?semnr=22082). It was a absolutely fantastic experience to spend a full week to discuss and playing music with these inspiring and humorous colleagues. 
+
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dagstuhl.jpg" style="width:50%" align="center">
 
 
