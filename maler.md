@@ -35,9 +35,13 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 
 - 한단비내린 Danbinaerin Han
 
-
-# Interns
 - 이다솔 Dasol Lee
 
+- 류지우 (인공지능학과)
+
+
+<!-- # Interns -->
+
 # Undergraduate Interns
-- 우시아 Siah Woo
+- 정종민
+- 안지인
