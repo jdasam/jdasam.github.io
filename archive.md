@@ -4,6 +4,8 @@ title: News / Archive
 permalink: /archive/
 ---
 
+* June-30-2022 / One paper got accepted for ACM Multimedia as a second author. It was joint research with Pedro Ramoneda, Marius Miron, and Xavier Serra from Music Technology Group, Universitat Pompeu Fabra, and Eita Nakamura from Kyoto University. 
+
 * June 2022 / My group got accepted for two fundings: 1) Individual Research funding from National Research Foundation (NRF) of Korea for topic of Expressive Performance Modeling, and 2) Dataset composition for acoustic scene and sound from NIA, with NeuTune and KAIST MAC Lab.
 
 * May 2022 / I will serve as an area chair of NeurIPS 2022. I'll do my best to contribute this great community. 

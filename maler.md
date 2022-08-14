@@ -45,3 +45,8 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 # Undergraduate Interns
 - 정종민
 - 안지인
+- 김대웅
+- 박희준
+- 이찬우
+- 이육샛별
+- 김주혜
