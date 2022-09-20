@@ -6,7 +6,7 @@ header:
 <!-- author_profile: true -->
 ---
 <figure> 
- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dasaem_jeong_profile.jpg" style="margin: 0 20% 0 20%; width:300px;display:block">
+ <img src="{{ site.url }}{{ site.baseurl }}/assets/images/prof_2022.jpg" style="margin: 0 20% 0 20%; width:300px;display:block">
 <!--   <figcaption><italic>Me giving speech as a student representative in the Commemoration of the 49th Anniversary of KAIST</italic></figcaption> -->
 </figure> 
 
