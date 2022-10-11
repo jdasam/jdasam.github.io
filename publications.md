@@ -10,9 +10,13 @@ permalink: /publications/
 	+ *Journal of the Audio Engineering Society* Volume 68 Issue 1/2, 2020, [[pdf]](http://www.aes.org/e-lib/browse.cfm?elib=20716)
 
 ## Peer-reviewed Conference Articles
+* Automatic Piano Fingering from Partially Annotated Scores Using Autoregressive Neural Networks
+	+ Pedro Ramoneda, <u>Dasaem Jeong</u>, Eita Nakamura, Xavier Serra, and Marius Miron
+	+ *Proceddings of 30th ACM International Conference on Multimedia (MM'22)*, 2022, [[pdf]](https://repositori.upf.edu/handle/10230/54308)
+
 * Polyphonic Piano Transcription Using Autoregressive Multi-state Note Model
 	+ Taegyun Kwon, <u>Dasaem Jeong</u>,  and Juhan Nam
-	+ *Proceedings of 21st International Society for Music Information Retrieval Conference (ISMIR)* 2020, [[pdf]](https://program.ismir2020.net/poster_3-17.html) [[demo]](https://taegyunkwon.github.io/ar_multi_transcription/)
+	+ *Proceedings of 21st International Society for Music Information Retrieval Conference (ISMIR)*, 2020, [[pdf]](https://program.ismir2020.net/poster_3-17.html) [[demo]](https://taegyunkwon.github.io/ar_multi_transcription/)
 
 * VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performances 
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, Yoojin Kim, Kyogu Lee, and Juhan Nam
