@@ -49,4 +49,3 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 - 박희준
 - 이찬우
 - 이육샛별
-- 김주혜
