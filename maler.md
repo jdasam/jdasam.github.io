@@ -3,7 +3,7 @@ layout: splash
 title: MALer Lab
 permalink: /maler/
 ---
-[<img src="/assets/images/lab_members.jpg" width="500"/>](image.png)
+[<img src="/assets/images/lab_members2022.jpg" width="600"/>](image.png)
 
 
 Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University) aims to understand music and art computationally, especially through deep learning. Our research interest is deep learning for creativity, such as computational modeling of music generation and music performance, music information retrieval, generative models for visual art, cross-modal deep learning, human-AI interaction, and AI-based artworks. The ultimate goal of our research is to enhance the artistic experiences in our society by augmenting human creativity with deep learning.
@@ -26,7 +26,7 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 	- Affiliated at the Department of AI (Graduate School)
 
 
-# Master Students
+# Master's Students
 - 오명석 Myung Seok Oh [Personal Website](https://hearenzo.com/) <br />
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/student_profiles/myungseok.jpeg) <br />
 
@@ -37,15 +37,17 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 
 - 이다솔 Dasol Lee
 
-- 류지우 (인공지능학과)
+- 류지우 (인공지능학과 DHE 트랙)
+
+- 김대웅 (인공지능학과 DHE 트랙)
+
+- 정종민 (인공지능학과 DHE 트랙)
 
 
-<!-- # Interns -->
+# Interns
+- 김동민
 
 # Undergraduate Interns
-- 정종민
 - 안지인
-- 김대웅
-- 박희준
-- 이찬우
-- 이육샛별
+- 박한나
+- 최리아
