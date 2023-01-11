@@ -24,6 +24,8 @@ permalink: /cv/
 
 - 2021 Fall: Data & AI (MAS1004), Special Topics on Creative Technology (ANT6207)
 - 2022 Spring: Natural Language Processing (AAT3020), Deep Learning for Music & Audio (AATG015, AIE6664)
+- 2022 Fall: Data & AI (MAS1004), AI & Creativity (ANT6040, AIE6663)
+- 2023 Spring: Natural Language Processing (AAT3020), Deep Learning for Music & Audio (AATG015, AIE6664)
 
 ## Award
 
@@ -31,6 +33,12 @@ permalink: /cv/
 
 
 ## Project
+
+- 2022-2023: Modeling and Evaluation of Piano Performance using Deep Learning
+	+ National Research Foundation of Korea
+
+- 2022: Virtual Environmental Sound Dataset
+	+ National Information Society Agency (NIA)
 
 - 2017 - 2020: Automatic Generation of Expressive Music Performance using Machine Learning
 	+ Samsung Research Funding Center
