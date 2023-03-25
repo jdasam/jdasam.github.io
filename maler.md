@@ -31,8 +31,6 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 
 
 # Master's Students
-- 오명석 Myung Seok Oh (아트&테크놀로지) [Personal Website](https://hearenzo.com/) <br />
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/student_profiles/myungseok.jpeg) <br />
 
 - 김혜린 Hyerin Kim (아트&테크놀로지) <br/>
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/student_profiles/hyerin_kim_resized.jpeg) <br />
@@ -45,8 +43,6 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 
 - 김대웅 (인공지능학과 DHE 트랙)
 
-- 정종민 (인공지능학과 DHE 트랙)
-
 
 # Interns
 - 김동민
@@ -54,4 +50,6 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 # Undergraduate Interns
 - 안지인
 - 박한나
-- 최리아
+
+# Alumni
+- 오명석 Myung Seok Oh [Personal Website](https://hearenzo.com/) <br />
