@@ -10,6 +10,10 @@ permalink: /publications/
 	+ *Journal of the Audio Engineering Society* Volume 68 Issue 1/2, 2020, [[pdf]](http://www.aes.org/e-lib/browse.cfm?elib=20716)
 
 ## Peer-reviewed Conference Articles
+* A Study of Audio Mixing Methods for Piano Transcription in Violin-Piano Ensembles
+	+ Hyemi Kim, Jiyun Park, Taegyun Kwon, <u>Dasaem Jeong</u>, and Juhan Nam
+	+ *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023 (to appear)
+
 * Automatic Piano Fingering from Partially Annotated Scores Using Autoregressive Neural Networks
 	+ Pedro Ramoneda, <u>Dasaem Jeong</u>, Eita Nakamura, Xavier Serra, and Marius Miron
 	+ *Proceddings of 30th ACM International Conference on Multimedia (MM'22)*, 2022, [[pdf]](https://repositori.upf.edu/handle/10230/54308)
@@ -41,6 +45,11 @@ permalink: /publications/
 * Visualizing Music in its Entirety using Acoustic Features: Music Flowgram 
 	+ <u>Dasaem Jeong</u> and Juhan Nam 
 	+ *Proceedings of the 2nd International Conference on Technologies for Music Notation and Representation (TENOR)*, 2016 [[pdf]](http://mac.kaist.ac.kr/pubs/JeongNam-tenor2016.pdf) [[demo]](http://jdasam.github.io/visualization/main.html)
+
+## Domestic Journal Articles
+* Fantastic AI Sinawi: Composing Korean Traditional Music using Deep Neural Network
+	+ Hannah Park, Danbinaerin Han, Chaeryeong Oh, <u>Dasaem Jeong</u> 
+	+ *Journal of Digital Contents Society* (Accepted)
 
 
 ## Workshop and Musicology Articles

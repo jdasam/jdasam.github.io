@@ -52,4 +52,4 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 - 박한나
 
 # Alumni
-- 오명석 Myung Seok Oh [Personal Website](https://hearenzo.com/) <br />
+- 오명석 Myung Seok Oh [Personal Website](https://hearenzo.com/) -> Deep Voice <br />
