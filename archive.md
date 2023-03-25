@@ -8,13 +8,17 @@ permalink: /archive/
 * Feb-10-2023 / In [Ai Music Generation Challenge 2022](), our submission won first-prize award in generating Irish Reel! Our submission for sub-task 2 and 3 also beat the benchmark.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Got the First prize from AI Music Generation Challenge 2022 tune generation🥳 The task was to generate traditional Irish Reel dance music (monophonic melody in symbolic), and one of our generated tunes got the perfect scores from all of the four human expert judges😎 <a href="https://t.co/eQb91Nb0ui">pic.twitter.com/eQb91Nb0ui</a></p>&mdash; Dasaem Jeong (@DasaemJ) <a href="https://twitter.com/DasaemJ/status/1624393341529128961?ref_src=twsrc%5Etfw">February 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* Feb-3-2023 / Jiin An, an intern at MALer Lab, has won excellence award in HCI Korea 2023 Creative Award track. The work had been started as a term project of AAT3020, Natural Language Processing course given by Dasaem Jeong.
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/creativity_award.jpg" style="width:40%" align="center">
+
+
+
 * Jan 2023 / I will serve as an area chair of ICML 2023. 
 
 * Dec 2022 / MALer Lab participated ISMIR 2023. Danbinaerin Han, a Master's student, performed Fantastic AI Sinawi with 해금Haegeum during the Music Program. Total seven people participated from Sogang University, which was the largest group among entire East Asia! 
 
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ismir_members.JPG" style="width:40%" align="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sinawi.JPG" style="width:37%" align="center">
-
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sinawi.jpg" style="width:37%" align="center">
 
 
 * June-30-2022 / One paper got accepted for ACM Multimedia as a second author. It was joint research with Pedro Ramoneda, Marius Miron, and Xavier Serra from Music Technology Group, Universitat Pompeu Fabra, and Eita Nakamura from Kyoto University. 
