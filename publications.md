@@ -5,9 +5,19 @@ permalink: /publications/
 ---
 
 ## Journal Articles
+* VirtuosoTune: Hierarchical Melody Language Model
+	+ Dasaem Jeong
+	+ *IEIE Transactions on Smart Processing & Computing* (Accepted)
+
+* Reducing Latency of Neural Automatic Piano Transcription Models
+	+ Dasol Lee, and Dasaem Jeong
+	+ *The Journal of the Acoustical Society of Korea* Volume 42 Issue 2, 2023 [[html]](https://www.jask.or.kr/articles/xml/XgKP/)
+
 * Note-Intensity Estimation of Piano Recordings Using Coarsely Aligned MIDI Score
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, and Juhan Nam
 	+ *Journal of the Audio Engineering Society* Volume 68 Issue 1/2, 2020, [[pdf]](http://www.aes.org/e-lib/browse.cfm?elib=20716)
+
+
 
 ## Peer-reviewed Conference Articles
 * A Study of Audio Mixing Methods for Piano Transcription in Violin-Piano Ensembles
