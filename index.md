@@ -29,4 +29,4 @@ header:
 - deep learning for creativity (cross-modal deep learning)
 - performance analysis 
 - music visualizaiton 
-- classical music
+- classical music, korean traditional music

@@ -3,7 +3,7 @@ layout: splash
 title: MALer Lab
 permalink: /maler/
 ---
-[<img src="/assets/images/lab_members2022.jpg" width="600"/>](image.png)
+[<img src="/assets/images/sac.jpg" width="600"/>](image.png)
 
 
 Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University) aims to understand music and art computationally, especially through deep learning. Our research interest is deep learning for creativity, such as computational modeling of music generation and music performance, music information retrieval, generative models for visual art, cross-modal deep learning, human-AI interaction, and AI-based artworks. The ultimate goal of our research is to enhance the artistic experiences in our society by augmenting human creativity with deep learning.
@@ -25,7 +25,7 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 
 # Professor
 - 정다샘 Dasaem Jeong<br />
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/dasaem_jeong_profile_small.jpeg) 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/dasaem_jeong_profile_small.jpg) 
 	- Assistant Professor at the Department of Art & Technology
 	- Affiliated at the Department of AI (Graduate School)
 
