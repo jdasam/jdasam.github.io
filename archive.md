@@ -3,6 +3,12 @@ layout: splash
 title: News / Archive
 permalink: /archive/
 ---
+* June-21-2023 / Two papers got accepted to ISMIR 2023! Danbinaerin Han, a master's student in MALer Lab contributed as a first author, collaborating with Dr. Rafael Caro Repetto from Kunstuniversität Graz. Another paper was done by Pedro Ramoneda and others from UPF MTG, and I've participated as a second author.
+
+* May-30-2023 / My group got accepted for Individual Research funding from National Research Foundation (NRF) of Korea for topic of Generating Gagok, Traditional Korean Lyric Song. 
+
+* Mar-2023 / Three papers got accepted for domestic journals.
+
 * Feb-16-2023 / One paper has been accepted to ICASSP 2023. The work was done by KASIT MAC Lab, and I have participated as a co-author. 
 
 * Feb-10-2023 / In [Ai Music Generation Challenge 2022](), our submission won first-prize award in generating Irish Reel! Our submission for sub-task 2 and 3 also beat the benchmark.

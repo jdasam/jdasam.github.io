@@ -9,16 +9,18 @@ permalink: /maler/
 Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University) aims to understand music and art computationally, especially through deep learning. Our research interest is deep learning for creativity, such as computational modeling of music generation and music performance, music information retrieval, generative models for visual art, cross-modal deep learning, human-AI interaction, and AI-based artworks. The ultimate goal of our research is to enhance the artistic experiences in our society by augmenting human creativity with deep learning.
 
 ---
-We are currently seeking highly motivated Master's and Ph.D. students for the academic year of 2024, who are interested in Deep Learning based Music Information Retrieval (MIR).
+We are currently seeking highly motivated Master's and Ph.D. students for the academic year of 2024, who are interested in Deep Learning based Music Information Retrieval (MIR). Preference will be given to applicants who have background in electronic engineering, or computer science.
 
 - [Graduate Program at the Department of Art & Technology](http://creative.sogang.ac.kr/at_graduate_20161017/)
 - [Graduate School of AI](https://ai.sogang.ac.kr/ai/index_new.html)
 
 
-Our lab is currently not accepting new application for Master's or Ph.D. students until 2024, However, exceptional cases will be considered. 
+**Those who are interested in joining our lab for the spring semester of 2024 are encouraged to contact [Dasaem Jeong](mailto:dasaemj@sogang.ac.kr)
+until June 30th (preferably).**
+
 
 If you're interested in the research conducted in our lab, we highly recommend taking AATG015 - Deep Learning for Music & Audio as it provides a solid foundation for the work we do and will give you a head start on potential research projects in the future.
-For any questions or further information, please contact [here](mailto:dasaemj@sogang.ac.kr)
+<!-- For any questions or further information, please contact [here](mailto:dasaemj@sogang.ac.kr) -->
 
 ---
 
@@ -29,6 +31,8 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 	- Assistant Professor at the Department of Art & Technology
 	- Affiliated at the Department of AI (Graduate School)
 
+# Ph.D Students
+- 오명석 Myung Seok Oh [Personal Website](https://hearenzo.com/) 
 
 # Master's Students
 
@@ -43,13 +47,16 @@ For any questions or further information, please contact [here](mailto:dasaemj@s
 
 - 김대웅 (인공지능학과 DHE 트랙)
 
+- 김동민 (인공지능학과 DHE 트랙)
 
-# Interns
-- 김동민
+- 정종민 (인공지능학과 DHE 트랙)
+
 
 # Undergraduate Interns
 - 안지인
 - 박한나
+- 이시훈
+- 이민희
 
 # Alumni
-- 오명석 Myung Seok Oh [Personal Website](https://hearenzo.com/) -> Deep Voice <br />
+- 오명석 Myung Seok Oh [Personal Website](https://hearenzo.com/) -> PhD
