@@ -4,7 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-## Journal Articles
+## 2023
+* Finding Tori: Self-supervised Learning for Analyzing Korean Folk Song
+	+ Danbinaerin Han, Rafael Caro Repetto, Dasaem Jeong
+	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)*, (Accepted)
+
+* Predicting Performance Difficulty from Piano Sheet Music Images
+	+ Pedro Ramoneda, Dasaem Jeong, Jose J. Valero-Mas, Xavier Serra
+	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)*, (Accepted)
+
 * VirtuosoTune: Hierarchical Melody Language Model
 	+ Dasaem Jeong
 	+ *IEIE Transactions on Smart Processing & Computing* (Accepted)
@@ -13,20 +21,35 @@ permalink: /publications/
 	+ Dasol Lee, and Dasaem Jeong
 	+ *The Journal of the Acoustical Society of Korea* Volume 42 Issue 2, 2023 [[html]](https://www.jask.or.kr/articles/xml/XgKP/)
 
+* A Study of Audio Mixing Methods for Piano Transcription in Violin-Piano Ensembles
+	+ Hyemi Kim, Jiyun Park, Taegyun Kwon, Dasaem Jeong, and Juhan Nam
+	+ *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023 [[pdf]](https://ieeexplore.ieee.org/document/10095061)
+
+* Fantastic AI Sinawi: Composing Korean Traditional Music using Deep Neural Network
+	+ Hannah Park, Danbinaerin Han, Chaeryeong Oh, Dasaem Jeong
+	+ *Journal of Digital Contents Society* (Accepted)
+
+
+## 2022
+* Automatic Piano Fingering from Partially Annotated Scores Using Autoregressive Neural Networks
+	+ Pedro Ramoneda, <u>Dasaem Jeong</u>, Eita Nakamura, Xavier Serra, and Marius Miron
+	+ *Proceddings of 30th ACM International Conference on Multimedia (MM'22)*, 2022, [[pdf]](https://repositori.upf.edu/handle/10230/54308)
+
+
+## Before MALer
+
+
+
+### Journal Articles
+
 * Note-Intensity Estimation of Piano Recordings Using Coarsely Aligned MIDI Score
 	+ <u>Dasaem Jeong</u>, Taegyun Kwon, and Juhan Nam
 	+ *Journal of the Audio Engineering Society* Volume 68 Issue 1/2, 2020, [[pdf]](http://www.aes.org/e-lib/browse.cfm?elib=20716)
 
 
 
-## Peer-reviewed Conference Articles
-* A Study of Audio Mixing Methods for Piano Transcription in Violin-Piano Ensembles
-	+ Hyemi Kim, Jiyun Park, Taegyun Kwon, <u>Dasaem Jeong</u>, and Juhan Nam
-	+ *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023 (to appear)
+### Peer-reviewed Conference Articles
 
-* Automatic Piano Fingering from Partially Annotated Scores Using Autoregressive Neural Networks
-	+ Pedro Ramoneda, <u>Dasaem Jeong</u>, Eita Nakamura, Xavier Serra, and Marius Miron
-	+ *Proceddings of 30th ACM International Conference on Multimedia (MM'22)*, 2022, [[pdf]](https://repositori.upf.edu/handle/10230/54308)
 
 * Polyphonic Piano Transcription Using Autoregressive Multi-state Note Model
 	+ Taegyun Kwon, <u>Dasaem Jeong</u>,  and Juhan Nam
@@ -56,13 +79,9 @@ permalink: /publications/
 	+ <u>Dasaem Jeong</u> and Juhan Nam 
 	+ *Proceedings of the 2nd International Conference on Technologies for Music Notation and Representation (TENOR)*, 2016 [[pdf]](http://mac.kaist.ac.kr/pubs/JeongNam-tenor2016.pdf) [[demo]](http://jdasam.github.io/visualization/main.html)
 
-## Domestic Journal Articles
-* Fantastic AI Sinawi: Composing Korean Traditional Music using Deep Neural Network
-	+ Hannah Park, Danbinaerin Han, Chaeryeong Oh, <u>Dasaem Jeong</u> 
-	+ *Journal of Digital Contents Society* (Accepted)
 
 
-## Workshop and Musicology Articles
+### Workshop and Musicology Articles
 
 * TräumerAI: Dreaming Music With StyleGAN  
 	+ <u>Dasaem Jeong</u>, Seungheon Doh, and Taegyun Kwon
@@ -103,7 +122,7 @@ permalink: /publications/
 	+ *Proceedings of the 69th Symposium of the Musicological Society of Korea*, 2013
 
 
-## Patent (in Korea)
+### Patent (in Korea)
 * Valve Opening and Shutting Type Brass Instrument Automatic Correction Helper (밸브 개폐식 금관악기 자동 음정 보정 장치)
 	+ Youngjin Park, Sangmin Baek, <u>Dasaem Jeong</u>, Minju Kang, Chanho Park, Sangeon Lee, Jeongin Jang
 	+ Patent No. 10-1392182 (2014.04.29)
