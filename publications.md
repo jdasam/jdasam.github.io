@@ -21,25 +21,22 @@ permalink: /publications/
 	+ Dasol Lee, and Dasaem Jeong
 	+ *The Journal of the Acoustical Society of Korea* Volume 42 Issue 2, 2023 [[html]](https://www.jask.or.kr/articles/xml/XgKP/)
 
+* Fantastic AI Sinawi: 심층신경망 기반 국악 선율 작곡을 활용한 시나위 창작 (Composing Korean Traditional Music using Deep Neural Network)
+	+ Hannah Park, Danbinaerin Han, Chaeryeong Oh, Dasaem Jeong
+	+ *Journal of Digital Contents Society* [[html]](http://journal.dcs.or.kr/_common/do.php?a=full&b=12&bidx=3284&aidx=36522)
+
 * A Study of Audio Mixing Methods for Piano Transcription in Violin-Piano Ensembles
 	+ Hyemi Kim, Jiyun Park, Taegyun Kwon, Dasaem Jeong, and Juhan Nam
 	+ *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023 [[pdf]](https://ieeexplore.ieee.org/document/10095061)
 
-* Fantastic AI Sinawi: Composing Korean Traditional Music using Deep Neural Network
-	+ Hannah Park, Danbinaerin Han, Chaeryeong Oh, Dasaem Jeong
-	+ *Journal of Digital Contents Society* (Accepted)
-
 
 ## 2022
 * Automatic Piano Fingering from Partially Annotated Scores Using Autoregressive Neural Networks
-	+ Pedro Ramoneda, <u>Dasaem Jeong</u>, Eita Nakamura, Xavier Serra, and Marius Miron
+	+ Pedro Ramoneda, Dasaem Jeong, Eita Nakamura, Xavier Serra, and Marius Miron
 	+ *Proceddings of 30th ACM International Conference on Multimedia (MM'22)*, 2022, [[pdf]](https://repositori.upf.edu/handle/10230/54308)
 
 
 ## Before MALer
-
-
-
 ### Journal Articles
 
 * Note-Intensity Estimation of Piano Recordings Using Coarsely Aligned MIDI Score
