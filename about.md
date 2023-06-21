@@ -16,5 +16,7 @@ I love classical music a lot. This is the reason why my research interest is foc
 - NeurIPS Area Chair (2022)
 - ICML Area Chair (2023)
 - Reviewer
-	- ISMIR (2020-2022)
+	- ISMIR (2020-2023)
+	- IEEE/ACM Transactions on Audio, Speech, and Language Processing
 	- Journal of New Music Research 
+	- Journal of Audio Engineering Society
