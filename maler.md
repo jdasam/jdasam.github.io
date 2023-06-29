@@ -3,7 +3,8 @@ layout: splash
 title: MALer Lab
 permalink: /maler/
 ---
-[<img src="/assets/images/MALER_LOGO_TEXT_WHITE.png" width="600"/>](logo.png)
+[<img src="/assets/images/MALER_LOGO_TEXT_WHITE.png" width="600"/>](logo.png) <br />
+
 [<img src="/assets/images/sac.jpg" width="600"/>](image.png)
 
 
