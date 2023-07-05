@@ -51,7 +51,7 @@ If you're interested in the research conducted in our lab, we highly recommend t
 
 - 김동민 (인공지능학과 DHE 트랙) [website](https://www.ukgu.xyz/)
 
-- 정종민 (인공지능학과 DHE 트랙) [website](https://sakem.in/about.html)
+- 정종민 (인공지능학과 DHE 트랙) [website](https://sakem.in/)
 
 
 # Undergraduate Interns
