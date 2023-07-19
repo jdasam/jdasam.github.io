@@ -6,11 +6,11 @@ permalink: /publications/
 
 ## 2023
 * Finding Tori: Self-supervised Learning for Analyzing Korean Folk Song
-	+ Danbinaerin Han, Rafael Caro Repetto, Dasaem Jeong
+	+ Danbinaerin Han, Rafael Caro Repetto, and Dasaem Jeong
 	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)*, (Accepted)
 
 * Predicting Performance Difficulty from Piano Sheet Music Images
-	+ Pedro Ramoneda, Dasaem Jeong, Jose J. Valero-Mas, Xavier Serra
+	+ Pedro Ramoneda, Dasaem Jeong, Jose J. Valero-Mas, and Xavier Serra
 	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)*, (Accepted)
 
 * ExpertBach: Chorale Generation Powered by Domain Knowledge
@@ -26,11 +26,11 @@ permalink: /publications/
 	+ *IEIE Transactions on Smart Processing & Computing* (Accepted)
 
 * Reducing Latency of Neural Automatic Piano Transcription Models
-	+ Dasol Lee, and Dasaem Jeong
+	+ Dasol Lee and Dasaem Jeong
 	+ *The Journal of the Acoustical Society of Korea* Volume 42 Issue 2, 2023 [[html]](https://www.jask.or.kr/articles/xml/XgKP/)
 
 * Fantastic AI Sinawi: 심층신경망 기반 국악 선율 작곡을 활용한 시나위 창작 (Composing Korean Traditional Music using Deep Neural Network)
-	+ Hannah Park, Danbinaerin Han, Chaeryeong Oh, Dasaem Jeong
+	+ Hannah Park, Danbinaerin Han, Chaeryeong Oh, and Dasaem Jeong
 	+ *Journal of Digital Contents Society* [[html]](http://journal.dcs.or.kr/_common/do.php?a=full&b=12&bidx=3284&aidx=36522)
 
 * A Study of Audio Mixing Methods for Piano Transcription in Violin-Piano Ensembles
