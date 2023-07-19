@@ -24,9 +24,10 @@ header:
 
 
 ### Research interests
-- modeling expressive piano performance (aka AI Pianist)
 - deep-learning-based music information retrieval 
-- deep learning for creativity (cross-modal deep learning)
-- performance analysis 
-- music visualizaiton 
+- modeling expressive piano performance
+- music generation
 - classical music, korean traditional music
+- computational musicology
+- music visualization 
+- cross-modal generation

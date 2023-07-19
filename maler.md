@@ -8,17 +8,13 @@ permalink: /maler/
 [<img src="/assets/images/sac.jpg" width="600"/>](image.png)
 
 
-Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University) aims to understand music and art computationally, especially through deep learning. Our research interest is deep learning for creativity, such as computational modeling of music generation and music performance, music information retrieval, generative models for visual art, cross-modal deep learning, human-AI interaction, and AI-based artworks. The ultimate goal of our research is to enhance artistic experiences in our society by augmenting human creativity with deep learning.
+Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University) aims to understand music and art computationally, especially through deep learning. Our research interests covers broad music information retrieval including computational modeling of music generation and music performance, computational musicology, and cross-modal generation. The ultimate goal of our research is to enhance artistic experiences in our society based on our computational understanding on music and art. 
 
 ---
 We are currently seeking highly motivated Master's and Ph.D. students for the academic year of 2024 who are interested in Deep Learning based Music Information Retrieval (MIR). Preference will be given to applicants who have a background in electronic engineering or computer science.
 
 - [Graduate Program at the Department of Art & Technology](http://creative.sogang.ac.kr/at_graduate_20161017/)
 - [Graduate School of AI](https://ai.sogang.ac.kr/ai/index_new.html)
-
-
-**Those who are interested in joining our lab for the spring semester of 2024 are encouraged to contact [Dasaem Jeong](mailto:dasaemj@sogang.ac.kr)
-until June 30th (preferably).**
 
 
 If you're interested in the research conducted in our lab, we highly recommend taking AATG015 - Deep Learning for Music & Audio as it provides a solid foundation for the work we do and will give you a head start on potential research projects in the future.
