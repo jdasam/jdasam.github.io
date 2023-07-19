@@ -8,10 +8,10 @@ permalink: /maler/
 [<img src="/assets/images/sac.jpg" width="600"/>](image.png)
 
 
-Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University) aims to understand music and art computationally, especially through deep learning. Our research interest is deep learning for creativity, such as computational modeling of music generation and music performance, music information retrieval, generative models for visual art, cross-modal deep learning, human-AI interaction, and AI-based artworks. The ultimate goal of our research is to enhance the artistic experiences in our society by augmenting human creativity with deep learning.
+Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University) aims to understand music and art computationally, especially through deep learning. Our research interest is deep learning for creativity, such as computational modeling of music generation and music performance, music information retrieval, generative models for visual art, cross-modal deep learning, human-AI interaction, and AI-based artworks. The ultimate goal of our research is to enhance artistic experiences in our society by augmenting human creativity with deep learning.
 
 ---
-We are currently seeking highly motivated Master's and Ph.D. students for the academic year of 2024, who are interested in Deep Learning based Music Information Retrieval (MIR). Preference will be given to applicants who have background in electronic engineering, or computer science.
+We are currently seeking highly motivated Master's and Ph.D. students for the academic year of 2024 who are interested in Deep Learning based Music Information Retrieval (MIR). Preference will be given to applicants who have a background in electronic engineering or computer science.
 
 - [Graduate Program at the Department of Art & Technology](http://creative.sogang.ac.kr/at_graduate_20161017/)
 - [Graduate School of AI](https://ai.sogang.ac.kr/ai/index_new.html)
@@ -31,17 +31,17 @@ If you're interested in the research conducted in our lab, we highly recommend t
 - 정다샘 Dasaem Jeong<br />
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/dasaem_jeong_profile_small.jpg) 
 	- Assistant Professor at the Department of Art & Technology
-	- Affiliated at the Department of AI (Graduate School)
+	- Affiliated with the Department of AI (Graduate School)
 
 # Ph.D Students
-- 오명석 Myung Seok Oh [Personal Website](https://hearenzo.com/) 
+- 오명석 Myung Seok Oh [website](https://hearenzo.com/) 
 
 # Master's Students
 
 - 김혜린 Hyerin Kim (아트&테크놀로지) <br/>
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/student_profiles/hyerin_kim_resized.jpeg) <br />
 
-- 한단비내린 Danbinaerin Han (아트&테크놀로지)
+- 한단비내린 Danbinaerin Han (아트&테크놀로지) [website](https://danbinaerin.notion.site/Danbinaerin-Han-Researcher-Korean-music-Specialist-eaa8c0e0df6049cba6da08fdf6bcc6af?pvs=4)
 
 - 이다솔 Dasol Lee (아트&테크놀로지)
 
@@ -49,16 +49,16 @@ If you're interested in the research conducted in our lab, we highly recommend t
 
 - 김대웅 (인공지능학과 DHE 트랙)
 
-- 김동민 (인공지능학과 DHE 트랙)
+- 김동민 (인공지능학과 DHE 트랙) [website](https://www.ukgu.xyz/)
 
-- 정종민 (인공지능학과 DHE 트랙)
+- 정종민 (인공지능학과 DHE 트랙) [website](https://sakem.in/)
 
 
 # Undergraduate Interns
 - 안지인
-- 박한나
-- 이시훈
-- 이민희
+- 박한나 [website](https://www.crescent.studio/)
+- 이시훈 
+- 이민희 [website](https://github.com/minigb)
 
 # Alumni
-- 오명석 Myung Seok Oh [Personal Website](https://hearenzo.com/) -> PhD
+- 오명석 Myung Seok Oh -> PhD
