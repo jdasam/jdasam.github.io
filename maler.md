@@ -8,7 +8,7 @@ permalink: /maler/
 [<img src="/assets/images/sac.jpg" width="600"/>](image.png)
 
 
-Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University) aims to understand music and art computationally, especially through deep learning. Our research interests covers broad music information retrieval including computational modeling of music generation and music performance, computational musicology, and cross-modal generation. The ultimate goal of our research is to enhance artistic experiences in our society based on our computational understanding on music and art. 
+Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University) aims to understand music and art computationally, especially through deep learning. Our research interests covers broad music information retrieval including computational modeling of music generation and music performance, computational musicology, and cross-modal generation. The ultimate goal of our research is to enhance artistic experiences in our society based on our computational understanding of music and art. 
 
 ---
 We are currently seeking highly motivated Master's and Ph.D. students for the academic year of 2024 who are interested in Deep Learning based Music Information Retrieval (MIR). Preference will be given to applicants who have a background in electronic engineering or computer science.
