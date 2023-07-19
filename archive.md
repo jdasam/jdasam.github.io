@@ -3,7 +3,7 @@ layout: splash
 title: News / Archive
 permalink: /archive/
 ---
-* Jul-13-2023 / I was invited as a reviewer and committee member of thesis defense of Michael Krause, a PhD student from Prof. Meinard Müller's group at International Audio Laboratories Erlangen. After the defense, I gave research talk at AudioLabs and have discussion with Prof. Müller's group. Huge congratulations to Dr. Krause!
+* Jul-12-2023 / I was invited as a reviewer and committee member of thesis defense of Michael Krause, a PhD student from Prof. Meinard Müller's group at International Audio Laboratories Erlangen. After the defense, I gave research talk at AudioLabs and have discussion with Prof. Müller's group. Huge congratulations to Dr. Krause!
 
 * June-21-2023 / Two papers got accepted to ISMIR 2023! Danbinaerin Han, a master's student in MALer Lab contributed as a first author, collaborating with Dr. Rafael Caro Repetto from Kunstuniversität Graz. Another paper was done by Pedro Ramoneda and others from UPF MTG, and I've participated as a second author.
 
