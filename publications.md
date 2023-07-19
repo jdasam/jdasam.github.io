@@ -13,6 +13,14 @@ permalink: /publications/
 	+ Pedro Ramoneda, Dasaem Jeong, Jose J. Valero-Mas, Xavier Serra
 	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)*, (Accepted)
 
+* ExpertBach: Chorale Generation Powered by Domain Knowledge
+	+ Eunjin Choi, Hyerin Kim, Juhan Nam, and Dasaem Jeong
+	+ *Proceedings of 16th International Symposium on Computer Music Multidisciplinary Research (CMMR)*, (Accepted)
+
+* Construction of Debiased Korean AI Fairytale Generator
+	+ Jiin An, Saetbyeol Leeyouk, Yewon Jang, and Dasaem Jeong
+	+ *Journal of Digital Contents Society*, (Accepted)
+
 * VirtuosoTune: Hierarchical Melody Language Model
 	+ Dasaem Jeong
 	+ *IEIE Transactions on Smart Processing & Computing* (Accepted)
