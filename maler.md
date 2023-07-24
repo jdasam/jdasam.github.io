@@ -42,7 +42,7 @@ If you're interested in the research conducted in our lab, we highly recommend t
 
 - 류지우 (인공지능학과 DHE 트랙)
 
-- 김대웅 (인공지능학과 DHE 트랙)
+- 김대웅 (인공지능학과 DHE 트랙) [website](https://bit.ly/DeawoongKim)
 
 - 김동민 (인공지능학과 DHE 트랙) [website](https://www.ukgu.xyz/)
 
