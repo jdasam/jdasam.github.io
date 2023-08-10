@@ -16,6 +16,8 @@ Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University)
 - [Graduate Program at the Department of Art & Technology](http://creative.sogang.ac.kr/at_graduate_20161017/)
 - [Graduate School of AI](https://ai.sogang.ac.kr/ai/index_new.html)
 
+Our research group is currently at full capacity and not accepting new applicants for graduate program. Please check back for future openings.
+
 If you're interested in the research conducted in our lab, we highly recommend taking AATG015 - Deep Learning for Music & Audio as it provides a solid foundation for the work we do and will give you a head start on potential research projects in the future.
 <!-- For any questions or further information, please contact [here](mailto:dasaemj@sogang.ac.kr) -->
 
