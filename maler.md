@@ -36,7 +36,7 @@ If you're interested in the research conducted in our lab, we highly recommend t
 # Master's Students
 
 - 김혜린 Hyerin Kim (아트&테크놀로지) <br/>
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/student_profiles/hyerin_kim_resized.jpeg) <br />
+<!-- ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/student_profiles/hyerin_kim_resized.jpeg) <br /> -->
 
 - 한단비내린 Danbinaerin Han (아트&테크놀로지) [website](https://danbinaerin.notion.site/Danbinaerin-Han-Researcher-Korean-music-Specialist-eaa8c0e0df6049cba6da08fdf6bcc6af?pvs=4)
 
