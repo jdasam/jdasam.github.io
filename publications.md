@@ -6,35 +6,35 @@ permalink: /publications/
 
 ## 2023
 * Finding Tori: Self-supervised Learning for Analyzing Korean Folk Song
-	+ Danbinaerin Han, Rafael Caro Repetto, and Dasaem Jeong
+	+ **Danbinaerin Han**, Rafael Caro Repetto, and **Dasaem Jeong**
 	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)*, (Accepted) [[arxiv]](https://arxiv.org/abs/2308.02249), [[code]](https://github.com/danbinaerinHan/finding-tori), [[demo]](https://danbinaerinhan.github.io/korean-folksong-visualization/)
 
 * Predicting Performance Difficulty from Piano Sheet Music Images
-	+ Pedro Ramoneda, Dasaem Jeong, Jose J. Valero-Mas, and Xavier Serra
+	+ Pedro Ramoneda, **Dasaem Jeong**, Jose J. Valero-Mas, and Xavier Serra
 	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)*, (Accepted)
 
 * ExpertBach: Chorale Generation Powered by Domain Knowledge
-	+ Eunjin Choi, Hyerin Kim, Juhan Nam, and Dasaem Jeong
+	+ Eunjin Choi, **Hyerin Kim**, Juhan Nam, and **Dasaem Jeong**
 	+ *Proceedings of 16th International Symposium on Computer Music Multidisciplinary Research (CMMR)*, (Accepted)
 
 * Construction of Debiased Korean AI Fairytale Generator
-	+ Jiin An, Saetbyeol Leeyouk, Yewon Jang, and Dasaem Jeong
+	+ **Jiin An**, Saetbyeol Leeyouk, Yewon Jang, and **Dasaem Jeong**
 	+ *Journal of Digital Contents Society*, Vol. 24, No. 7, pp. 1513-1528, 2023. [[html]](https://doi.org/10.9728/dcs.2023.24.7.1513)
 
 * VirtuosoTune: Hierarchical Melody Language Model
-	+ Dasaem Jeong
+	+ **Dasaem Jeong**
 	+ *IEIE Transactions on Smart Processing & Computing* (Accepted)
 
 * Reducing Latency of Neural Automatic Piano Transcription Models
-	+ Dasol Lee and Dasaem Jeong
+	+ **Dasol Lee** and **Dasaem Jeong**
 	+ *The Journal of the Acoustical Society of Korea* Volume 42 Issue 2, 2023. [[html]](https://www.jask.or.kr/articles/xml/XgKP/)
 
 * Fantastic AI Sinawi: 심층신경망 기반 국악 선율 작곡을 활용한 시나위 창작 (Composing Korean Traditional Music using Deep Neural Network)
-	+ Hannah Park, Danbinaerin Han, Chaeryeong Oh, and Dasaem Jeong
+	+ **Hannah Park**, **Danbinaerin Han**, Chaeryeong Oh, and **Dasaem Jeong**
 	+ *Journal of Digital Contents Society*,  Vol. 24, No. 4, pp. 785-796, 2023. [[html]](https://doi.org/10.9728/dcs.2023.24.4.785)
 
 * A Study of Audio Mixing Methods for Piano Transcription in Violin-Piano Ensembles
-	+ Hyemi Kim, Jiyun Park, Taegyun Kwon, Dasaem Jeong, and Juhan Nam
+	+ Hyemi Kim, Jiyun Park, Taegyun Kwon, **Dasaem Jeong**, and Juhan Nam
 	+ *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023 [[pdf]](https://ieeexplore.ieee.org/document/10095061)
 
 
