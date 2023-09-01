@@ -23,7 +23,7 @@ permalink: /publications/
 
 * VirtuosoTune: Hierarchical Melody Language Model
 	+ **Dasaem Jeong**
-	+ *IEIE Transactions on Smart Processing & Computing* (Accepted)
+	+ *IEIE Transactions on Smart Processing & Computing*, Vol. 12, No. 4, pp. 329-333, 2023. [[pdf]](http://ieiespc.org/AURIC_OPEN_temp/RDOC/ieie03/ieietspc_202308_006.pdf)
 
 * Reducing Latency of Neural Automatic Piano Transcription Models
 	+ **Dasol Lee** and **Dasaem Jeong**
