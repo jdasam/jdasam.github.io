@@ -13,7 +13,7 @@ permalink: /publications/
 	+ Pedro Ramoneda, **Dasaem Jeong**, Jose J. Valero-Mas, and Xavier Serra
 	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)*, (Accepted)
 
-* ExpertBach: Chorale Generation Powered by Domain Knowledge
+* Teaching Chorale Generation Model to Avoid Parallel Motions
 	+ Eunjin Choi, **Hyerin Kim**, Juhan Nam, and **Dasaem Jeong**
 	+ *Proceedings of 16th International Symposium on Computer Music Multidisciplinary Research (CMMR)*, (Accepted)
 
