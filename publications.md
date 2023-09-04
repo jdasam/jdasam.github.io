@@ -15,7 +15,7 @@ permalink: /publications/
 
 * Aligning Incomplete Lyrics of Korean Folk Song Dataset using Whisper
 	+ **Danbinaerin Han, Daewoong Kim, and Dasaem Jeong**
- 	+ Proceedings of 10th International Conference on Digital Libraries for Musicology (DLfM), (Accepted)
+ 	+ *Proceedings of 10th International Conference on Digital Libraries for Musicology (DLfM)*, (Accepted)
  	
 
 * Teaching Chorale Generation Model to Avoid Parallel Motions
