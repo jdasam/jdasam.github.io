@@ -13,10 +13,17 @@ permalink: /publications/
 	+ Pedro Ramoneda, **Dasaem Jeong**, Jose J. Valero-Mas, and Xavier Serra
 	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)*, (Accepted)
 
+* Combining Piano Performance Dimensions for Score Difficulty Classification
+	+ Pedro Ramoneda, **Dasaem Jeong**, Vsevolod Eremenko, Nazif Can Tamer, Marius Miron, Xavier Serra
+	+ *Expert Systems with Applications*, (Accepted)
+
 * Aligning Incomplete Lyrics of Korean Folk Song Dataset using Whisper
 	+ **Danbinaerin Han, Daewoong Kim, and Dasaem Jeong**
- 	+ *Proceedings of 10th International Conference on Digital Libraries for Musicology (DLfM)*, (Accepted)
- 	
+	+ *Proceedings of 10th International Conference on Digital Libraries for Musicology (DLfM)*, (Accepted)
+
+* Annotator Subjectivity in the MusicCaps Dataset
+	+ **Minhee Lee**, Seungheon Doh and **Dasaem Jeong**
+	+ *2nd Workshop on Human-Centric Music Information Research (HCMIR23)*, (Accepted)
 
 * Teaching Chorale Generation Model to Avoid Parallel Motions
 	+ Eunjin Choi, **Hyerin Kim**, Juhan Nam, and **Dasaem Jeong**
