@@ -3,9 +3,19 @@ layout: splash
 title: News / Archive
 permalink: /archive/
 ---
+* Sep-2023 / We started project on re-orchestrating Korean traditional court music, funded by National Gugak Center.
+
+* Sep-6-2023 / One paper got accepted to [HCMIR](https://sites.google.com/view/hcmir23/). Minhee Lee, an undergraduate intern in MALer lab contributed as the first author, collaborating with SeungHeon Doh from KAIST MAC Lab.
+
+* Sep-2-2023 / One paper got accepted to [DLfM](https://dlfm.web.ox.ac.uk/). Danbinaerin Han and Daewoong Kim, both master's students in MALer Lab, contributed to this work. 
+
+* Jul-20-2023 / MALer Lab participated [MUSIC & AUDIO WORKSHOP 2023](https://snu-marg.notion.site/MUSIC-AUDIO-WORKSHOP-2023-3594ec77804d4c2ebfbfa6fb9d8fecc6) with SNU MARG, KAIST MAC, and KAIST MuBL.
+
 * Jul-12-2023 / I was invited as a reviewer and committee member of thesis defense of Michael Krause, a PhD student from Prof. Meinard Müller's group at International Audio Laboratories Erlangen. After the defense, I gave research talk at AudioLabs and have discussion with Prof. Müller's group. Huge congratulations to Dr. Krause!
 
-* June-21-2023 / Two papers got accepted to ISMIR 2023! Danbinaerin Han, a master's student in MALer Lab contributed as a first author, collaborating with Dr. Rafael Caro Repetto from Kunstuniversität Graz. Another paper was done by Pedro Ramoneda and others from UPF MTG, and I've participated as a second author.
+* Jul-11-2023 / One paper got accepted to [CMMR](https://cmmr2023.gttm.jp/). Hyerin Kim, a master's student in MALer Lab participated as the second author collaborating with Eunjin Choi from KAIST MAC Lab.
+
+* June-21-2023 / Two papers got accepted to ISMIR 2023! Danbinaerin Han, a master's student in MALer Lab contributed as the first author, collaborating with Dr. Rafael Caro Repetto from Kunstuniversität Graz. Another paper was done by Pedro Ramoneda and others from UPF MTG, and I've participated as a second author.
 
 * May-30-2023 / My group got accepted for Individual Research funding from National Research Foundation (NRF) of Korea for topic of Generating Gagok, Traditional Korean Lyric Song. 
 
