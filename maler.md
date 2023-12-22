@@ -30,16 +30,7 @@ If you're interested in the research conducted in our lab, we highly recommend t
 	- Assistant Professor at the Department of Art & Technology
 	- Affiliated with the Department of AI (Graduate School)
 
-# Ph.D Students
-- 오명석 Myung Seok Oh [website](https://hearenzo.com/) 
-
 # Master's Students
-
-- 김혜린 Hyerin Kim (아트&테크놀로지) <br/>
-<!-- ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/student_profiles/hyerin_kim_resized.jpeg) <br /> -->
-
-- 한단비내린 Danbinaerin Han (아트&테크놀로지) [website](https://danbinaerin.notion.site/Danbinaerin-Han-Researcher-Korean-music-Specialist-eaa8c0e0df6049cba6da08fdf6bcc6af?pvs=4)
-
 - 이다솔 Dasol Lee (아트&테크놀로지)
 
 - 류지우 (인공지능학과 DHE 트랙)
@@ -50,12 +41,14 @@ If you're interested in the research conducted in our lab, we highly recommend t
 
 - 정종민 (인공지능학과 DHE 트랙) [website](https://sakem.in/)
 
+- 이시훈 (인공지능학과 DHE 트랙)
+
 
 # Undergraduate Interns
-- 안지인
 - 박한나 [website](https://www.crescent.studio/)
-- 이시훈 
 - 이민희 [website](https://github.com/minigb)
 
 # Alumni
-- 오명석 Myung Seok Oh -> PhD
+- 오명석 Myung Seok Oh
+- 김혜린 Hyerin Kim
+- 한단비내린 Danbinaerin Han [website](https://danbinaerin.notion.site/Danbinaerin-Han-Researcher-Korean-music-Specialist-eaa8c0e0df6049cba6da08fdf6bcc6af?pvs=4)
