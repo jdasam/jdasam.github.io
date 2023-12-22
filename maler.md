@@ -46,7 +46,7 @@ If you're interested in the research conducted in our lab, we highly recommend t
 
 # Undergraduate Interns
 - 박한나 [website](https://www.crescent.studio/)
-- 이민희 [website](https://github.com/minigb)
+- 이민희 [website](https://sites.google.com/view/minigb/)
 
 # Alumni
 - 오명석 Myung Seok Oh

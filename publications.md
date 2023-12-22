@@ -3,31 +3,39 @@ layout: splash
 title: Publications
 permalink: /publications/
 ---
+## 2024
+* Enriching Music Descriptions With A Finetuned-LLM And Metadata For Text-to-music Retrieval
+	+ SeungHeon Doh, **Minhee Lee, Dasaem Jeong**, and Juhan Nam
+	+  *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, (accepted)
 
 ## 2023
 * Finding Tori: Self-supervised Learning for Analyzing Korean Folk Song
 	+ **Danbinaerin Han**, Rafael Caro Repetto, and **Dasaem Jeong**
-	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)*, (Accepted) [[arxiv]](https://arxiv.org/abs/2308.02249), [[code]](https://github.com/danbinaerinHan/finding-tori), [[demo]](https://danbinaerinhan.github.io/korean-folksong-visualization/)
+	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)* [[arxiv]](https://arxiv.org/abs/2308.02249), [[code]](https://github.com/danbinaerinHan/finding-tori), [[demo]](https://danbinaerinhan.github.io/korean-folksong-visualization/)
 
 * Predicting Performance Difficulty from Piano Sheet Music Images
-	+ Pedro Ramoneda, **Dasaem Jeong**, Jose J. Valero-Mas, and Xavier Serra
-	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)*, (Accepted)
+	+ Pedro Ramoneda, Jose J. Valero-Mas, **Dasaem Jeong**, and Xavier Serra
+	+ *Proceedings of 24th International Society for Music Information Retrieval Conference (ISMIR)* [[pdf]](https://repositori.upf.edu/bitstream/handle/10230/58122/Ramoneda_ism_pred.pdf)
 
 * Combining Piano Performance Dimensions for Score Difficulty Classification
 	+ Pedro Ramoneda, **Dasaem Jeong**, Vsevolod Eremenko, Nazif Can Tamer, Marius Miron, Xavier Serra
-	+ *Expert Systems with Applications*, (Accepted)
+	+ *Expert Systems with Applications* [[html]](https://doi.org/10.1016/j.eswa.2023.121776)
 
 * Aligning Incomplete Lyrics of Korean Folk Song Dataset using Whisper
 	+ **Danbinaerin Han, Daewoong Kim, and Dasaem Jeong**
-	+ *Proceedings of 10th International Conference on Digital Libraries for Musicology (DLfM)*, (Accepted)
+	+ *Proceedings of 10th International Conference on Digital Libraries for Musicology (DLfM)*, [[html]](https://dl.acm.org/doi/10.1145/3625135.3625154)
 
 * Annotator Subjectivity in the MusicCaps Dataset
 	+ **Minhee Lee**, Seungheon Doh and **Dasaem Jeong**
-	+ *2nd Workshop on Human-Centric Music Information Research (HCMIR23)*, (Accepted)
+	+ *2nd Workshop on Human-Centric Music Information Research (HCMIR23)* [[pdf]](https://ceur-ws.org/Vol-3528/paper6.pdf)
+
+* AutoOsu: Audio-Aware Action Generation for Rhythm Games
+	+ **Sihun Lee and Dasaem Jeong**
+	+ *Late Breaking/Demo (LBD) of 24th International Society for Music Information Retrieval Conference (ISMIR)* [[pdf]](https://drive.google.com/file/d/1zdgVPPRPBEueRfVDUl5yBUWrh_eWAJ3O)
 
 * Teaching Chorale Generation Model to Avoid Parallel Motions
 	+ Eunjin Choi, **Hyerin Kim**, Juhan Nam, and **Dasaem Jeong**
-	+ *Proceedings of 16th International Symposium on Computer Music Multidisciplinary Research (CMMR)*, (Accepted)
+	+ *Proceedings of 16th International Symposium on Computer Music Multidisciplinary Research (CMMR)* [[pdf]](https://zenodo.org/records/10112462)
 
 * Construction of Debiased Korean AI Fairytale Generator
 	+ **Jiin An**, Saetbyeol Leeyouk, Yewon Jang, and **Dasaem Jeong**
