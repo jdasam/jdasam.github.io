@@ -45,9 +45,9 @@ permalink: /archive/
 
 * Dec 2022 / MALer Lab participated ISMIR 2023. Danbinaerin Han, a Master's student, performed Fantastic AI Sinawi with 해금Haegeum during the Music Program. Total seven people participated from Sogang University, which was the largest group among entire East Asia! 
 
-  <img src="{{ site.url <!-- }}{{ site.baseurl }}/assets/images/ismir_members.JPG" style="width:40%" align="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sinawi.jpg" style="width:37%" align="center"> -->
-
+<!--   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ismir_members.JPG" style="width:40%" align="center">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sinawi.jpg" style="width:37%" align="center">
+ -->
 
 * June-30-2022 / One paper got accepted for ACM Multimedia as a second author. It was joint research with Pedro Ramoneda, Marius Miron, and Xavier Serra from Music Technology Group, Universitat Pompeu Fabra, and Eita Nakamura from Kyoto University. 
 
