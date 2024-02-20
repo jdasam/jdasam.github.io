@@ -4,9 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 ## 2024
+
+* K-pop Lyric Translation: Dataset, Analysis, and Neural-Modelling
+	+ Haven Kim, **Jongmin Jung, Dasaem Jeong**, and Juhan Nam
+	+ *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)*, (accepted) [[arxiv]](https://arxiv.org/abs/2309.11093)
+
 * Enriching Music Descriptions With A Finetuned-LLM And Metadata For Text-to-music Retrieval
 	+ SeungHeon Doh, **Minhee Lee, Dasaem Jeong**, and Juhan Nam
 	+  *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, (accepted)
+
 
 ## 2023
 * Finding Tori: Self-supervised Learning for Analyzing Korean Folk Song
