@@ -3,7 +3,11 @@ layout: splash
 title: News / Archive
 permalink: /archive/
 ---
-* Jan-22-2023 / Danbinaerin Han received the Outstanding Paper Award for Graduate Students from Sogang University with her ISMIR paper.
+* Sep-2024 / We won NRF grant (Total 2B KRW for three years) for research center, Dasaem Jeong as the head of the center and PI. The project focuses on AI and VR application for music education.
+
+* Jun-2024 / Two papers got accepted for ISMIR 2024!
+
+* Jan-22-2024 / Danbinaerin Han received the Outstanding Paper Award for Graduate Students from Sogang University with her ISMIR paper.
 
 * Dec-14-2023 / Hyerin Kim and Danbinaerin Han successfully defended their Master's theses.
 
