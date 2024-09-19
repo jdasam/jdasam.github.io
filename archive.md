@@ -3,9 +3,11 @@ layout: splash
 title: News / Archive
 permalink: /archive/
 ---
-* Sep-2024 / We won NRF grant (Total 2B KRW for three years) for research center, Dasaem Jeong as the head of the center and PI. The project focuses on AI and VR application for music education.
+* Sep-2024 / We won NRF grant (Total 2B KRW for three years) for research center, me as the head of the center and PI. The project focuses on AI and VR application for music education, with seven other professors.
 
 * Jun-2024 / Two papers got accepted for ISMIR 2024!
+
+* Mar-9-2024 / I gave a keynote talk at the conference of the Korean Society for Music Perception and Cognition (KSMPC)
 
 * Jan-22-2024 / Danbinaerin Han received the Outstanding Paper Award for Graduate Students from Sogang University with her ISMIR paper.
 
