@@ -6,11 +6,6 @@ main:
     url: /about/
   - title: "MALer Lab"
     url: /maler/
-  - title: "News/Archive"
-    url: /archive/
-  - title: "Publications"
-    url: /publications/
-
 
   # - title: "Sample Posts"
   #   url: /year-archive/

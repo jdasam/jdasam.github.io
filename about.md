@@ -13,10 +13,12 @@ My research interest includes Creative AI, Expressive Performance Modeling, Musi
 I love classical music a lot. This is the reason why my research interest is focused mainly on classical music. I've played the cello in KAIST Orchestra, and taken lessons for orchestral conducting.
 
 ## Academic Services
+- TISMIR Section Editor (2025-)
 - NeurIPS Area Chair (2022)
-- ICML Area Chair (2023)
+- ICML Area Chair (2023-2025)
 - Reviewer
-	- ISMIR (2020-2023)
+	- ISMIR (2020-2024), Best Reviewer Award (2024)
+  - TISMIR
 	- IEEE/ACM Transactions on Audio, Speech, and Language Processing
 	- Journal of New Music Research 
 	- Journal of Audio Engineering Society
